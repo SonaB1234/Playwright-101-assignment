@@ -1,0 +1,27 @@
+
+user: sobiju
+accessKey: LT_UROyDGNA88yY0rniHxczol1dsKeqDkeI41b6GI3zf6UjPeu
+
+build: "Playwright 101 Assignment - Final"
+name: "Playwright 101 Assignment - Final"
+
+# Required artifacts: network logs, video, screenshots, console logs
+network: true
+video: true
+visual: true
+console: true
+terminal: true
+commandLog: true
+
+framework: playwright
+parallelsPerPlatform: 2
+
+# Each platform runs in parallel
+platforms:
+  - platform: "Windows 11"
+    browserName: "chrome"
+    browserVersion: "latest"
+
+  - platform: "macos sonoma"
+    browserName: "chrome"
+    browserVersion: "latest"

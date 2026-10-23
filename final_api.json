@@ -1,0 +1,52 @@
+﻿{
+    "sessions":  [
+                     {
+                         "test_id":  "DA-WIN-3381819-1792742792861436067HDY",
+                         "name":  "Test Scenario 2 - Drag and Drop Sliders - slider.spec.js",
+                         "status_ind":  "passed",
+                         "browser":  "chrome",
+                         "create_timestamp":  "2026-10-23 08:06:34"
+                     },
+                     {
+                         "test_id":  "DA-MAC-3381819-1792742792908124227VYN",
+                         "name":  "Test Scenario 2 - Drag and Drop Sliders - slider.spec.js",
+                         "status_ind":  "passed",
+                         "browser":  "chrome",
+                         "create_timestamp":  "2026-10-23 08:06:33"
+                     },
+                     {
+                         "test_id":  "DA-MAC-3381819-1792742727610949484IIE",
+                         "name":  "Test Scenario 3 - Input Form Submit - form.spec.js",
+                         "status_ind":  "passed",
+                         "browser":  "chrome",
+                         "create_timestamp":  "2026-10-23 08:05:28"
+                     },
+                     {
+                         "test_id":  "DA-WIN-3381819-1792742727814117983JWV",
+                         "name":  "Test Scenario 3 - Input Form Submit - form.spec.js",
+                         "status_ind":  "passed",
+                         "browser":  "chrome",
+                         "create_timestamp":  "2026-10-23 08:05:28"
+                     },
+                     {
+                         "test_id":  "DA-WIN-3381819-1792742667102756045GBL",
+                         "name":  "Test Scenario 1 - Simple Form Demo - assignment.spec.js",
+                         "status_ind":  "passed",
+                         "browser":  "chrome",
+                         "create_timestamp":  "2026-10-23 08:04:30"
+                     },
+                     {
+                         "test_id":  "DA-MAC-3381819-1792742667034083785RGF",
+                         "name":  "Test Scenario 1 - Simple Form Demo - assignment.spec.js",
+                         "status_ind":  "passed",
+                         "browser":  "chrome",
+                         "create_timestamp":  "2026-10-23 08:04:27"
+                     }
+                 ],
+    "build":  {
+                  "build_id":  109514479,
+                  "name":  "Playwright 101 Assignment - Final",
+                  "status_ind":  "passed",
+                  "dashboard_url":  "https://automation.lambdatest.com/build?\u0026build=109514479"
+              }
+}
